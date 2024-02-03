@@ -31,6 +31,8 @@ public class Bomb : MonoBehaviour
         transform.right = targetPoint - transform.position;
 
         model.transform.position = startPosition;
+
+        AudioManager.instance.PlaySFX(1);
     }
 
     // Update is called once per frame
@@ -52,6 +54,9 @@ public class Bomb : MonoBehaviour
             {
                 Instantiate(explodeEffect, model.position, Quaternion.identity);
             }
+
+            AudioManager.instance.PlaySFX(0);
+
             Destroy(gameObject);
         }
     }

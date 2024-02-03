@@ -64,6 +64,8 @@ public class TowerManager : MonoBehaviour
                         indicator.gameObject.SetActive(false);
 
                         UIController.instance.notEnoughMoneyWarning.SetActive(false);
+
+                        AudioManager.instance.PlaySFX(8);
                     }
                 }
             }

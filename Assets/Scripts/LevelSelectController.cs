@@ -13,7 +13,7 @@ public class LevelSelectController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        AudioManager.instance.PlayLevelSelectMusic();
     }
 
     // Update is called once per frame

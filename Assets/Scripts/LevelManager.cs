@@ -30,6 +30,8 @@ public class LevelManager : MonoBehaviour
         waveSpawners = FindObjectsOfType<EnemyWaveSpawner>();
 
         levelActive = true;
+
+        AudioManager.instance.PlayBGM();
     }
 
     // Update is called once per frame
