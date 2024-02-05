@@ -113,7 +113,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07e9a95ecd1e1dd4c990bfe2016a45a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  range: 3
+  range: 3.5
   fireRate: 1
   whatIsEnemy:
     serializedVersion: 2

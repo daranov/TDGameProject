@@ -141,6 +141,8 @@ MonoBehaviour:
   speedMod: 1
   timeBetweenAttacks: 0.5
   damagePerAttack: 2
+  isFlying: 0
+  flyHeight: 0
 --- !u!136 &7973944489199399455
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -178,7 +180,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   totalHealth: 15
   healthBar: {fileID: 9041197049923358296}
-  moneyOnDeath: 50
+  moneyOnDeath: 40
 --- !u!1 &4183108789763308023
 GameObject:
   m_ObjectHideFlags: 0

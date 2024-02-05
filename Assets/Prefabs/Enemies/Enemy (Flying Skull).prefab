@@ -498,7 +498,7 @@ MonoBehaviour:
   moveSpeed: 0.4
   speedMod: 1
   timeBetweenAttacks: 0.75
-  damagePerAttack: 2
+  damagePerAttack: 4
   isFlying: 1
   flyHeight: 0.75
 --- !u!136 &505423681321036474

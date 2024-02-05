@@ -51,7 +51,7 @@ MonoBehaviour:
   moveSpeed: 0.3
   speedMod: 1
   timeBetweenAttacks: 0.5
-  damagePerAttack: 2
+  damagePerAttack: 5
   isFlying: 0
   flyHeight: 0
 --- !u!136 &2103003090989427847
@@ -89,7 +89,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d24e79f7363bf64497537b70aee642d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  totalHealth: 200
+  totalHealth: 170
   healthBar: {fileID: 870455498790133684}
   moneyOnDeath: 100
 --- !u!1 &4678836303677998007
