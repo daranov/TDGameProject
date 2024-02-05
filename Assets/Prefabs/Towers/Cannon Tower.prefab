@@ -176,7 +176,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rangeUpgrades:
-  - amount: 3.5
+  - amount: 3.75
     cost: 50
   - amount: 4
     cost: 100

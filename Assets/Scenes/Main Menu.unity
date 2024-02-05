@@ -6898,6 +6898,66 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 246891641854618122, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 375652199069409580, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 459510635362711661, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1064498491093113417, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1135836964127574200, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1312422711971597999, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2756021152471155121, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2869396613775464466, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2917016257815841076, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2954387177733253064, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3173189310877525687, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3498260408911991819, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3826442948536773077, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4271915652746506143, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4293968776417780840, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
     - target: {fileID: 5300025620996926687, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.0448698
@@ -6938,9 +6998,41 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5436816371168685508, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5521547945519024957, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5665728066358299660, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
     - target: {fileID: 5666160740608403824, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
       propertyPath: m_Name
       value: Audio Manager
+      objectReference: {fileID: 0}
+    - target: {fileID: 7278578017135180105, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7655315298930098803, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8100515858145177390, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8636102804141460864, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8697431299631734349, guid: 3873ff0e4586b384186ec7acba8ff6c6, type: 3}
+      propertyPath: m_Volume
+      value: 0.3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
